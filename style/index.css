@@ -66,3 +66,38 @@
     margin: 50px 0px;
     font-size: 40px;
 }
+.skils{
+    display: flex;
+    justify-content: space-around;
+    margin: 80px 0px;
+}
+.icons{
+    width:200px;
+    text-align: center;
+}
+.icon-title{
+    margin: 10px 0px;
+    font-weight: 300px;
+    font-size: 22px;
+}
+.last-baner{
+    height:150px;
+    width: 800px;
+    margin: 150px 150px 0px 300px;
+    background-image: url(/style/elements/Rectangle\ 4.png);
+    padding: 50px;
+    margin-bottom: 50px;
+    border-radius: 5px;
+
+}
+.baner-title{
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.baner-btn{
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 20px;
+    border: 0px;
+
+}
